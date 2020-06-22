@@ -1,0 +1,7 @@
+#Mon Mar 30 23:49:42 CEST 2020
+base.0=F\:\\Users\\Armand\\AndroidStudioProjects\\kolko_i_krzyzyk\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=F\:\\Users\\Armand\\AndroidStudioProjects\\kolko_i_krzyzyk\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
